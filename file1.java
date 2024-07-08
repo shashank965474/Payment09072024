@@ -10,4 +10,5 @@ Stopped
 
 
 
+hello i am java
 exit
